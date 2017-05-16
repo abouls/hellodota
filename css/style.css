@@ -1,0 +1,128 @@
+
+.logo{
+    /*background-image:url(src/dota_84.png);
+    background-repeat:no-repeat;写了无效*/
+    width:155px; height:130px;
+}
+
+
+
+.holyg{
+    display: flex;
+    flex-direction:row;
+
+}
+
+.lefterwhite{
+
+    display: flex;
+
+    flex:460;
+
+}
+
+.middle{
+
+
+    display: flex;
+
+
+
+    height: 1000;
+
+    flex-direction:column;
+ 
+}
+
+
+.rightwhite{
+
+    display: flex;
+ 
+    flex:460;
+
+
+
+}
+
+.loginbody{
+    display: flex;
+
+    flex-direction:row;
+}
+
+.login{
+
+    border: solid ;
+    border-color: white;
+    border-width: thin;
+    width: 136px;
+    height: 28px;
+    display: flex; 
+
+    flex:1;
+
+}
+
+.loginwhite{
+
+    display: flex; 
+    flex:8;
+
+
+}
+
+.header{
+    display: flex;
+
+}
+
+.header_logo{
+
+}
+
+
+.header_kefuimg{
+
+}
+
+.header_ul{
+
+}
+
+.header_search{
+
+}
+
+.main{
+        display: flex;
+
+    flex-direction:row;
+
+    height: 650px;
+
+
+}
+
+.mainul{
+    flex:146;
+    background-color: #999;  
+
+}
+
+.mainright{
+    flex:1242;
+    background-color: white;  
+
+
+}
+
+.MRtitle{
+    color: red;
+
+}
+
+.MRcontext{
+    border: solid ;
+
+}
