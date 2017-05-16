@@ -10,7 +10,7 @@
 .holyg{
     display: flex;
     flex-direction:row;
-
+    height: 1000px;
 }
 
 .lefterwhite{
